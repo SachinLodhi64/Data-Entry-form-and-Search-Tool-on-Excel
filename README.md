@@ -40,11 +40,11 @@ The VBA code behind the form and search tool is written in **Visual Basic**. The
 Below are the screenshots showing the **Data Entry Form** and **Search Tool**:
 
 ### Data Entry Form:
-<img src="file:///C:/Users/HP/OneDrive/Pictures/Screenshots/Screenshot%202025-01-19%20225319.png" alt="Data Entry Form">
+<img src="https://github.com/SachinLodhi64/Data-Entry-form-and-Search-Tool-on-Excel/blob/main/img/Screenshot%202025-01-19%20225319.png" alt="Data Entry Form" width="800" height= "500">
 
 
 ### Search Tool:
-![Search Tool]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-01-19 225244.png")
+<img src="https://github.com/SachinLodhi64/Data-Entry-form-and-Search-Tool-on-Excel/blob/main/img/Screenshot%202025-01-19%20225244.png" alt="Data Entry Form" width="800" height= "500">
 
 ## Requirements
 
